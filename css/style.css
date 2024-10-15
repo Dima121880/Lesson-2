@@ -98,3 +98,7 @@ section{
     width: 463px;
     height: 79px;
 }
+
+.add{
+  display: flex;
+}
